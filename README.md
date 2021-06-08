@@ -4,9 +4,9 @@ This applicatioin makes random questions for converting IPV4 decimal addressing 
 
 ## Technologies used
 
-*ReactJS
-*JavaScript
-*HTML
-*bootstrap
-*sass
-*yarn
+- ReactJS
+- JavaScript
+- HTML
+- bootstrap
+- sass
+- yarn
