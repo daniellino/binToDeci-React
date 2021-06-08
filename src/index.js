@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 import '../node_modules/bootstrap/scss/bootstrap.scss';
 import '../node_modules/bootstrap/js/dist/alert';
 import '../node_modules/bootstrap/js/dist/button';
