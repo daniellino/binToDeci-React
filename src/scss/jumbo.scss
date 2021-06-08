@@ -1,0 +1,10 @@
+@import './partials/variables';
+.jumbotron {
+  height: 1em;
+  padding: 3em 0;
+  color: $fontWhite;
+  h1 {
+    margin-top: -0.6em;
+    // font-size: 1.4em;
+  }
+}

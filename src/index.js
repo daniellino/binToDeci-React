@@ -6,9 +6,11 @@ import '../node_modules/bootstrap/js/dist/button';
 import './scss/index.scss';
 import App from '../src/components/App';
 import reportWebVitals from './reportWebVitals';
+import Jumbo from './components/Jumbo';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Jumbo />
     <App />
   </React.StrictMode>,
   document.getElementById('root')
