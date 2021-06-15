@@ -6,9 +6,10 @@ function Timer() {
         Elapsed time: <span id="timer-value">0</span>{' '}
         <span className="timer-second"> s</span>
       </div>
-      <div id="timeUp" className="anim_alert" style="display: none;">
+      <div id="timeUp" className="anim_alert">
         Your time is up!
       </div>
     </>
   );
 }
+export default Timer;

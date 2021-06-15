@@ -5,9 +5,9 @@ import '../node_modules/bootstrap/scss/bootstrap.scss';
 import '../node_modules/bootstrap/js/dist/alert';
 import '../node_modules/bootstrap/js/dist/button';
 import './scss/index.scss';
-import App from '../src/components/App';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Jumbo from './components/Jumbo';
+import Jumbo from './components/Jumbo.jsx';
 
 ReactDOM.render(
   <React.StrictMode>
